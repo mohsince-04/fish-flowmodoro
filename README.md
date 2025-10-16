@@ -1,5 +1,3 @@
-# fish-flowmodoro
-Stay focused and balanced — a Fish Shell productivity timer with audio cues and progress summaries.
 # 🐟 fish-flowmodoro
 
 **Stay focused and balanced — a Fish Shell productivity timer with audio cues and progress summaries.**
@@ -38,6 +36,12 @@ chsh -s (which fish)
 ## ⚙️ Setup Instructions
 
 ### 1️⃣ Save the script to your Fish config
+
+To get started, clone this repository:
+
+```bash
+git clone https://github.com/mohsince-04/fish-flowmodoro.git && cd fish-flowmodoro
+```
 
 # Create the functions directory if it doesn't exist
 ```bash
