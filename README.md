@@ -35,28 +35,20 @@ chsh -s (which fish)
 
 ## ⚙️ Setup Instructions
 
-### 1️⃣ Save the script to your Fish config
-
-To get started, clone this repository:
+### 1️⃣ To get started, clone this repository and append the content of the script to the  main configuration file:
 
 ```bash
 git clone https://github.com/mohsince-04/fish-flowmodoro.git && cd fish-flowmodoro
 ```
 
-# Create the functions directory if it doesn't exist
 ```bash
-mkdir -p ~/.config/fish/functions
-```
-
-# Save the script as flowmodoro.fish
-```bash
-nano ~/.config/fish/functions/flowmodoro.fish
+cat fish.flowmodoro >> ~/.config/fish/config.fish
 ```
 
 ### 2️⃣ Create the audio directory and add your sound files
 
 ```bash
-mkdir -p ~/Music/
+mkdir ~/Music/
 ```
 
 Add the following `.wav` files to `~/Music/`:
