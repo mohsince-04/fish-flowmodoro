@@ -2,6 +2,8 @@
 
 **Stay focused and balanced — a Fish Shell productivity timer with audio cues and progress summaries.**
 ![Demo of Flowmodoro](demo.gif)
+
+All audio cues (focus, break, motivation sounds) were AI-generated using  [Synthesys](https://app.synthesys.live/signin)
 ---
 
 ## 🔧 Requirements (Arch Linux)
