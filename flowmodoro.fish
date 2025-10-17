@@ -34,13 +34,13 @@ function flowmodoro
 
     # Audio configuration
     set -g audio_map \
-        startwork    "/home/mohsince04/Music/startwork.wav" \
-        workstatus   "/home/mohsince04/Music/workstatus.wav" \
-        startbreak   "/home/mohsince04/Music/startbreak.wav" \
-        breakstatus  "/home/mohsince04/Music/breakstatus.wav" \
-        focus        "/home/mohsince04/Music/focus.wav" \
-        welltried    "/home/mohsince04/Music/welltried.wav" \
-        didgreat     "/home/mohsince04/Music/didgreat.wav"
+        startwork    ~/Music/startwork.wav \
+        workstatus   ~/Music/workstatus.wav \
+        startbreak   ~/Music/startbreak.wav \
+        breakstatus  ~/Music/breakstatus.wav \
+        focus        ~/Music/focus.wav \
+        welltried    ~/Music/welltried.wav \
+        didgreat     ~/Music/didgreat.wav
 
     function play_audio
         set -l sound_type $argv[1]
