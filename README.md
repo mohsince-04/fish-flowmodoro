@@ -29,7 +29,12 @@ sudo pacman -S mpv
 yay -S timer-bin
 ```
 
-### 4. **Optional: Make Fish your default shell**
+### 4. **Start a new Fish shell session in your terminal**
+
+```bash
+fish
+```
+**Optional: Make Fish your default shell**
 
 ```bash
 chsh -s (which fish)
