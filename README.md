@@ -75,7 +75,7 @@ Add the following `.wav` files to `~/Music/`:
   ```
 
   ```bash
-  mv  * ~/Music
+  cp  * ~/Music
 
 ### 3️⃣ Reload Fish configuration
 
