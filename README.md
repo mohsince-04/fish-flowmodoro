@@ -2,7 +2,7 @@
 
 **Stay focused and balanced — a Fish Shell productivity timer with audio cues and progress summaries.**
 
-![Demo of Flowmodoro](demo.gif)
+![Image](https://github.com/user-attachments/assets/8224d498-03f3-4fd1-adc1-5de6a24c21c3)
 
 Smart Break Calculation: 20% of work time (minimum 12s, maximum 30m)
 
