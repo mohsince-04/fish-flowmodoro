@@ -46,7 +46,7 @@ git clone https://github.com/mohsince-04/fish-flowmodoro.git && cd fish-flowmodo
 ```
 
 ```bash
-cat fish.flowmodoro >> ~/.config/fish/config.fish
+cat flowmodoro.fish >> ~/.config/fish/config.fish
 ```
 
 ### 2️⃣ Create the audio directory and add your sound files
