@@ -4,9 +4,8 @@
 
 ![Demo of Flowmodoro](demo.gif)
 
-This project and its documentation were primarily generated with the help of  [DeepSeek](https://chat.deepseek.com). 
+This project and its documentation were created with the help of  [DeepSeek](chat.deepseek.com) , and all audio cues were AI-generated using  [Synthesys](https://app.synthesys.live).
 
-All audio cues (focus, break, motivation sounds) were AI-generated using  [Synthesys](https://app.synthesys.live).
 ---
 
 ## 🔧 Requirements (Arch Linux)
