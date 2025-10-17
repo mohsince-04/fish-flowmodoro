@@ -42,7 +42,7 @@ chsh -s (which fish)
 ### 1️⃣ To get started, clone this repository and append the content of the script to the  main configuration file:
 
 ```bash
-git clone https://github.com/mohsince-04/fish-flowmodoro.git && cd fish-flowmodoro
+git clone https://github.com/mohsince-04/fish-flowmodoro.git
 ```
 
 ```bash
