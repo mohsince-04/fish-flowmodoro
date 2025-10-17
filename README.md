@@ -103,5 +103,18 @@ Audio cues and summaries will guide your productivity.
 
 ---
 
+📋 Features
+
+    Flexible Work Sessions: Work for any duration, breaks are calculated automatically
+
+    Smart Break Calculation: 20% of work time (minimum 12s, maximum 30m)
+
+    Audio Feedback: Different sounds for work start, breaks, and achievements
+
+    Progress Tracking: Running total of work time and session averages
+
+    Motivational Messages: Encouraging feedback based on total work time
+
+---
 
 This project was inspired by the terminal productivity workflows shown in this  [video](https://youtu.be/GfQjJBtO-8Y?si=j3YaV0F1K6qyR5LK) and their amazing [`.zshrc`](https://gist.github.com/bashbunni/3880e4194e3f800c4c494de286ebc1d7). I decided to make my own version with some new ideas and custom touches!
