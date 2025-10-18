@@ -6,7 +6,7 @@
 
 Smart Break Calculation: 20% of work time (minimum 12s, maximum 30m)
 
-This project was mainly created with the help of  [DeepSeek](chat.deepseek.com). , and all audio cues were AI-generated using  [Synthesys](https://app.synthesys.live).
+This project was mainly created with the help of  [DeepSeek](https://chat.deepseek.com) , and all audio cues were AI-generated using  [Synthesys](https://app.synthesys.live).
 
 ---
 
