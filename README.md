@@ -4,10 +4,7 @@
 
 ![Image](https://github.com/user-attachments/assets/8224d498-03f3-4fd1-adc1-5de6a24c21c3)
 
-Flowmodoro (An enhanced version of Pomodoro technique) where in pomodoro uses fixed-length work and break intervals, while Flowmodoro uses flexible intervals based on your
-  focus.
-
-  Here's a breakdown of the key differences:
+**Flowmodoro (An enhanced version of Pomodoro technique)**
 
 
 | Feature        | Pomodoro Technique                                              | Flowmodoro (Flowtime) Technique                                           |
@@ -22,7 +19,7 @@ Flowmodoro (An enhanced version of Pomodoro technique) where in pomodoro uses fi
 
 Smart Break Calculation: 20% of work time (minimum 12s, maximum 30m)
 
-This project was mainly created with the help of  [DeepSeek](https://chat.deepseek.com) , and all audio cues were AI-generated using  [Synthesys](https://app.synthesys.live).
+**This project was mainly created with the help of  [DeepSeek](https://chat.deepseek.com) , and all audio cues were AI-generated using  [Synthesys](https://app.synthesys.live).**
 
 ---
 
