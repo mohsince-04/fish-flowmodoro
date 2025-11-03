@@ -4,6 +4,33 @@
 
 ![Image](https://github.com/user-attachments/assets/8224d498-03f3-4fd1-adc1-5de6a24c21c3)
 
+Flowmodoro (An enhanced version of Pomodoro technique) where in pomodoro uses fixed-length work and break intervals, while Flowmodoro uses flexible intervals based on your
+  focus.
+
+  Here's a breakdown of the key differences:
+
+
+  ┌────────────────┬───────────────────────────────────────────────────────────────────┬─────────────────────────────────────────────────────────────────────────────────────────────────
+  ┐
+  │ Feature        │ Pomodoro Technique                                                │ Flowmodoro (Flowtime) Technique
+  │
+  ├────────────────┼───────────────────────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────
+  ┤
+  │ Work Intervals │ Fixed 25-minute sessions.                                         │ Flexible; you work as long as you're focused.
+  │
+  │ Breaks         │ Fixed 5-minute short breaks and 15-30 minute long breaks.         │ Taken when you feel your focus decline; break length is often proportional to the work session.
+  │
+  │ Flexibility    │ Rigid and structured.                                             │ Highly flexible and personalized.
+  │
+  │ Best For       │ Structured tasks, overcoming procrastination, and "shallow work." │ Complex, creative tasks, and "deep work" that requires sustained focus.
+  │
+  └────────────────┴───────────────────────────────────────────────────────────────────┴─────────────────────────────────────────────────────────────────────────────────────────────────
+  ┘
+
+
+  In short, Pomodoro is a structured system for managing time, while Flowmodoro is a more organic method that adapts to your natural workflow and energy levels to help you get into a
+  "flow state."
+
 Smart Break Calculation: 20% of work time (minimum 12s, maximum 30m)
 
 This project was mainly created with the help of  [DeepSeek](https://chat.deepseek.com) , and all audio cues were AI-generated using  [Synthesys](https://app.synthesys.live).
