@@ -40,8 +40,15 @@ sudo pacman -S mpv
 
 ### 3. **timer-bin** 
 
+First install [yay](https://github.com/Jguer/yay)  /  [paru](https://github.com/Morganamilo/paru)  
+
 ```bash
 yay -S timer-bin
+```
+OR
+
+```bash
+paru -S timer-bin
 ```
 
 ### 4. **Start a new Fish shell session in your terminal**
@@ -118,4 +125,4 @@ Audio cues and summaries will guide your productivity.
 
 ---
 
-This project was inspired by the terminal productivity workflows shown in this  [video](https://youtu.be/GfQjJBtO-8Y?si=j3YaV0F1K6qyR5LK) and their amazing [`.zshrc`](https://gist.github.com/bashbunni/3880e4194e3f800c4c494de286ebc1d7). I decided to make my own version with some new ideas and custom touches!
+**This project was inspired by the terminal productivity workflows shown in this  [video](https://youtu.be/GfQjJBtO-8Y?si=j3YaV0F1K6qyR5LK) and their amazing [`.zshrc`](https://gist.github.com/bashbunni/3880e4194e3f800c4c494de286ebc1d7). I decided to make my own version with some new ideas and custom touches!**
