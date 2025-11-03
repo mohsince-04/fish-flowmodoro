@@ -10,23 +10,12 @@ Flowmodoro (An enhanced version of Pomodoro technique) where in pomodoro uses fi
   Here's a breakdown of the key differences:
 
 
-  ┌────────────────┬───────────────────────────────────────────────────────────────────┬─────────────────────────────────────────────────────────────────────────────────────────────────
-  ┐
-  │ Feature        │ Pomodoro Technique                                                │ Flowmodoro (Flowtime) Technique
-  │
-  ├────────────────┼───────────────────────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────
-  ┤
-  │ Work Intervals │ Fixed 25-minute sessions.                                         │ Flexible; you work as long as you're focused.
-  │
-  │ Breaks         │ Fixed 5-minute short breaks and 15-30 minute long breaks.         │ Taken when you feel your focus decline; break length is often proportional to the work session.
-  │
-  │ Flexibility    │ Rigid and structured.                                             │ Highly flexible and personalized.
-  │
-  │ Best For       │ Structured tasks, overcoming procrastination, and "shallow work." │ Complex, creative tasks, and "deep work" that requires sustained focus.
-  │
-  └────────────────┴───────────────────────────────────────────────────────────────────┴─────────────────────────────────────────────────────────────────────────────────────────────────
-  ┘
-
+| Feature        | Pomodoro Technique                                              | Flowmodoro (Flowtime) Technique                                           |
+| -------------- | --------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| Work Intervals | Fixed 25-minute sessions.                                       | Flexible; you work as long as you're focused.                             |
+| Breaks         | Fixed 5-minute short breaks and 15–30 minute long breaks.       | Breaks when focus declines; break length often proportional to work time. |
+| Flexibility    | Rigid and structured.                                           | Highly flexible and personalized.                                         |
+| Best For       | Structured tasks, overcoming procrastination, and shallow work. | Complex, creative tasks, and deep work requiring sustained focus.         |
 
   In short, Pomodoro is a structured system for managing time, while Flowmodoro is a more organic method that adapts to your natural workflow and energy levels to help you get into a
   "flow state."
