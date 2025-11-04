@@ -71,6 +71,7 @@ sudo dnf install mpv
 ```
 ### 3. **timer-bin** 
 **Arch**
+
 First install [yay](https://github.com/Jguer/yay)  /  [paru](https://github.com/Morganamilo/paru).  
 Then, install the package using: 
 ```bash
