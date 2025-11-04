@@ -33,6 +33,7 @@ Before using Flowmodoro, ensure the following are installed:
 sudo pacman -S fish
 ````
 **Debian/Ubuntu**
+
 To get the latest release, we need to add the Fish shell PPA:
 ```bash
 sudo apt-add-repository ppa:fish-shell/release-3
@@ -45,7 +46,7 @@ You can now install fish:
 ```bash
 sudo apt install fish
 ```
-***Fedora**
+**Fedora**
 ```bash
 sudo dnf install fish
 ```
@@ -55,6 +56,7 @@ sudo dnf install fish
 sudo pacman -S mpv
 ```
 **Debian/Ubuntu**
+
 To get the latest release, we need ensure the Flathub repository is enabled on our system and adds it if it’s not already present.
 ```bash
 sudo flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
@@ -79,7 +81,9 @@ OR
 paru -S timer-bin
 ```
 Alternatively, clone the package manually from the AUR  [timer-bin](https://aur.archlinux.org/packages/timer-bin) and install it.
+
 **Debian/Ubuntu**
+
 First add the caarlos0 APT repository to your system
 ```bash
 echo 'deb [trusted=yes] https://repo.caarlos0.dev/apt/ /' | sudo tee /etc/apt/sources.list.d/caarlos0.list
@@ -92,7 +96,9 @@ Now, install the package
 ```bash
 sudo apt install timer
 ```
+
 **Fedora**
+
 Installation depends on your system architecture—use an RPM package for your CPU type (e.g., x86_64, aarch64).
 Download latest <pakage>.rpm from the  [releases page](https://github.com/caarlos0/timer/releases).
 Now, install the package
