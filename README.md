@@ -41,6 +41,7 @@ sudo pacman -S mpv
 ### 3. **timer-bin** 
 
 First install [yay](https://github.com/Jguer/yay)  /  [paru](https://github.com/Morganamilo/paru)  
+Then, install the package  
 
 ```bash
 yay -S timer-bin
@@ -50,6 +51,7 @@ OR
 ```bash
 paru -S timer-bin
 ```
+Alternatively, clone the package manually from the AUR  [timer-bin](https://aur.archlinux.org/timer-bin.git).
 
 ### 4. **Start a new Fish shell session in your terminal**
 
