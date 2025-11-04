@@ -23,36 +23,82 @@ Smart Break Calculation: 20% of work time (minimum 12s, maximum 30m)
 
 ---
 
-## 🔧 Requirements (Arch Linux)
+## 🔧 Requirements (Linux)
 
 Before using Flowmodoro, ensure the following are installed:
 
 ### 1. **Fish Shell**
+**Arch**
 ```bash
 sudo pacman -S fish
 ````
-
+**Debian/Ubuntu**
+To get the latest release, we need to add the Fish shell PPA:
+```bash
+sudo apt-add-repository ppa:fish-shell/release-3
+```
+Next, update your package list:
+```bash
+sudo apt update
+```
+You can now install fish:
+```bash
+sudo apt install fish
+```
+***Fedora**
+```bash
+sudo dnf install fish
+```
 ### 2. **MPV** (for audio playback)
-
+**Arch**
 ```bash
 sudo pacman -S mpv
 ```
-
+**Debian/Ubuntu**
+To get the latest release, we need ensure the Flathub repository is enabled on our system and adds it if it’s not already present.
+```bash
+sudo flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
+```
+Now install the package
+```bash
+flatpak install flathub io.mpv.Mpv -y
+```
+**Fedora**
+```bash
+sudo dnf install mpv
+```
 ### 3. **timer-bin** 
-
+**Arch**
 First install [yay](https://github.com/Jguer/yay)  /  [paru](https://github.com/Morganamilo/paru).  
 Then, install the package using: 
-
 ```bash
 yay -S timer-bin
 ```
 OR
-
 ```bash
 paru -S timer-bin
 ```
-Alternatively, clone the package manually from the AUR  [timer-bin](https://aur.archlinux.org/packages/timer-bin).
-
+Alternatively, clone the package manually from the AUR  [timer-bin](https://aur.archlinux.org/packages/timer-bin) and install it.
+**Debian/Ubuntu**
+First add the caarlos0 APT repository to your system
+```bash
+echo 'deb [trusted=yes] https://repo.caarlos0.dev/apt/ /' | sudo tee /etc/apt/sources.list.d/caarlos0.list
+```
+Next, update your package list
+```bash
+sudo apt update
+```
+Now, install the package
+```bash
+sudo apt install timer
+```
+**Fedora**
+Installation depends on your system architecture—use an RPM package for your CPU type (e.g., x86_64, aarch64).
+Download latest <pakage>.rpm from the  [releases page](https://github.com/caarlos0/timer/releases).
+Now, install the package
+```bash
+sudo dnf install ./<package>.rpm
+```
 ### 4. **Start a new Fish shell session in your terminal**
 
 ```bash
