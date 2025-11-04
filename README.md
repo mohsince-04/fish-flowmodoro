@@ -36,8 +36,10 @@ sudo pacman -S fish
 
 To get the latest release, we need to add the Fish shell PPA:
 ```bash
-sudo apt-add-repository ppa:fish-shell/release-X #(currently X is 4 [releases](https://github.com/fish-shell/fish-shell/releases))
+sudo apt-add-repository ppa:fish-shell/release-X #(currently X is 4. Check the latest version below)
 ```
+[releases](https://github.com/fish-shell/fish-shell/releases)
+
 Next, update your package list:
 ```bash
 sudo apt update
