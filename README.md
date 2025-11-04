@@ -57,7 +57,7 @@ sudo pacman -S mpv
 ```
 **Debian/Ubuntu**
 
-To get the latest release, we need ensure the Flathub repository is enabled on our system and adds it if it’s not already present.
+To get the latest release, we need to ensure the Flathub repository is enabled on our system and to add it if it’s not already present.
 ```bash
 sudo flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
 ```
