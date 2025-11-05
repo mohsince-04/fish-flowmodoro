@@ -83,7 +83,7 @@ OR
 ```bash
 paru -S timer-bin
 ```
-Alternatively, clone the package manually from the AUR  [timer-bin](https://aur.archlinux.org/packages/timer-bin) and install it.
+Alternatively, clone the package manually from the  [AUR](https://aur.archlinux.org/packages/timer-bin) and install it.
 
 **Debian/Ubuntu**
 
